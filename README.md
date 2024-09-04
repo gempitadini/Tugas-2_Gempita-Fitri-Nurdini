@@ -14,3 +14,5 @@ Contributor:5.000 Star:96,5 Comit:265,027
 https://github.com/rust-lang/rust-analyzer
 dibuat oleh rust-lang, bahasa pemrograman Rust
 Contributor:863 Star:14.000 Comit:31,437
+
+Link tugas Kanban board Trello : https://trello.com/b/BHKOZqk6/aktivitas-4-minggu
